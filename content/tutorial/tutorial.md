@@ -1191,6 +1191,7 @@ If we click on any step in the game's history, the tic-tac-toe board should imme
 Congratulations! You've created a tic-tac-toe game that:
 
 * Lets you play tic-tac-toe,
+Tic Tac Toe
 * Indicates when a player has won the game,
 * Stores a game's history as a game progresses,
 * Allows players to review a game's history and see previous versions of a game's board.
